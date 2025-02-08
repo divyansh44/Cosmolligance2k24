@@ -1,5 +1,6 @@
 # Cosmolligance2k24
 # Flood Segmentation Using UNet with Batch Normalization
+## 2nd Place winning Solution
 
 ## Objective
 The goal of this project is to accurately segment flood-affected areas in satellite imagery using a UNet model with **Batch Normalization** for improved training stability and generalization.
